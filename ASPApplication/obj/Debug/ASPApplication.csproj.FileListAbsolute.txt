@@ -1,5 +1,4 @@
 D:\Sample\ASPApplication\ASPApplication\bin\ApplicationInsights.config
-D:\Sample\ASPApplication\ASPApplication\bin\ASPApplication.dll.config
 D:\Sample\ASPApplication\ASPApplication\bin\ASPApplication.dll
 D:\Sample\ASPApplication\ASPApplication\bin\ASPApplication.pdb
 D:\Sample\ASPApplication\ASPApplication\bin\Antlr3.Runtime.dll
@@ -35,3 +34,6 @@ D:\Sample\ASPApplication\ASPApplication\obj\Debug\ASPApplication.csprojResolveAs
 D:\Sample\ASPApplication\ASPApplication\obj\Debug\ASPApplication.csproj.CoreCompileInputs.cache
 D:\Sample\ASPApplication\ASPApplication\obj\Debug\ASPApplication.dll
 D:\Sample\ASPApplication\ASPApplication\obj\Debug\ASPApplication.pdb
+D:\TESTMSBUILDOUTPUT\ApplicationInsights.config
+D:\TESTMSBUILDOUTPUT\ASPApplication.dll
+D:\TESTMSBUILDOUTPUT\ASPApplication.pdb
